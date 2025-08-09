@@ -63,4 +63,4 @@ This project was created to:
 **Jawad Ali** – Software Engineering Student  
 📧 Email: jawadaliics@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
-💻 GitHub: [https://github.com/jawadali001](#)
+💻 GitHub: [github.com/jawadali001](#)
