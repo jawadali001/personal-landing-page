@@ -48,26 +48,19 @@ personal-landing-page/
 │ └── preview.png
 └── README.md
 
----
-
-## 📸 Screenshots
-![Landing Page Preview](assets/preview.png)
 
 ---
 
-## 🛠 Tech Stack
-- **HTML5** – structure of the page  
-- **CSS3** – styling with Flexbox & Grid  
-- **JavaScript (ES6)** – smooth scrolling & simple interactivity
+## 🎯 Purpose
+This project was created to:
+1. Practice HTML, CSS, and JavaScript basics.  
+2. Build a professional-looking personal webpage.  
+3. Host a static site using **GitHub Pages**.
 
 ---
 
-## 📖 Features
-- Fully responsive design (works on mobile, tablet, desktop)  
-- Smooth scrolling navigation  
-- Links to social profiles  
-- Simple, professional color palette  
-
----
-
-## 📂 Folder Structure
+## 👨‍💻 Author
+**Jawad Ali** – Software Engineering Student  
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
+💻 GitHub: [github.com/yourusername](#)
