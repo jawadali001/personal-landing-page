@@ -61,6 +61,6 @@ This project was created to:
 
 ## 👨‍💻 Author
 **Jawad Ali** – Software Engineering Student  
-📧 Email: your.email@example.com  
+📧 Email: jawadaliics@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
-💻 GitHub: [github.com/yourusername](#)
+💻 GitHub: [https://github.com/jawadali001](#)
