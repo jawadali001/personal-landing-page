@@ -39,6 +39,7 @@ Built as part of my **ShipIt365** challenge — 300+ projects in 365 days.
 ---
 
 ## 📂 Folder Structure
+
 personal-landing-page/
 ├── index.html
 ├── style.css
